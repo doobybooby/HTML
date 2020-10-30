@@ -19,7 +19,7 @@ Opening Tag     | Closing Tag | Structure specified
     <li>        |    </li>    | List Item
     <ul>        |    </ul>    | Bulleted (unordered) list
     <ol>        |    </ol>    | Numbered (ordered) list
-<img src="URL"/>|    NONE     | Image
+<img src="URL"> |    NONE     | Image
 ```
 
 * Heading has 6 different sizes, h1-h6
