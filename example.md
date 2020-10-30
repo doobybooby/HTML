@@ -1,6 +1,8 @@
 HTML - Hyper Text Markup Language, standard for web pages
 
-uses
+<!--- to commnet we use this in html --->
+
+Mainly uses
 
 * tags
 * elements
