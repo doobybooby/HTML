@@ -1,4 +1,4 @@
-HTML - Hyper Text Markup Language, standard for web pages
+# HTML - Hyper Text Markup Language, standard for web pages
 
 <!--- to commnet we use this in html --->
 
@@ -9,7 +9,7 @@ Mainly uses
 * attributes
 
 
-# Common Tags
+### Common Tags
 ```
 Opening Tag     | Closing Tag | Structure specified
     <p>         |    </p>     | Paragraph Text
