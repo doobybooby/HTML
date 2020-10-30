@@ -30,18 +30,39 @@ Opening Tag     | Closing Tag | Structure specified
 
 * order list and unorder list always need to use list,
 * if you want numbered list, use order list
+1. a
+2. b
+
 * if you want bullet points use unorder list
-```HTML
+* c
+* d
+
+```
 <ol>
   <li>1</li>
   <li>2</li>
-
 </ol>
 
 <ul>
   <li>1</li>
   <li>2</li>
 </ul>
+```
 
+* how to add hyperlinks 
+```
+<a href="https://urlOfTheWeb"> click here </a>
+```
 
+* how to add images
+<img src="image location/address" > 
+
+* <div> to divide elements in the page </div>
+```
+# this will divide the two lines,
+<div>
+    <span> first line </span>
+</div>
+<span> second line</span> 
+```
 ```
